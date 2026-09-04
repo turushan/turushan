@@ -7,6 +7,10 @@
 
 🧠 **Current AI stack:** `Claude Code CLI w/ Claude Max 20x` + `Codex CLI w/ ChatGPT Pro 20x`
 
+## 🐣 Developer tools
+
+- [**Cheep**](https://cheep.sh) is a safety-first, open source Namecheap CLI for domains, DNS, SSL, scripts, and AI agents.
+
 ## 🌐 Website checks
 
 - 🕳️ [**Indie404**](https://indie404.com) checks whether a site returns a real missing-page response instead of a soft 404, redirect, or server error.
