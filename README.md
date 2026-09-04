@@ -5,7 +5,7 @@
 ☀️ **By day, I build iOS apps at [Volkswagen](https://apps.apple.com/app/id1457901109).**  
 🌙 **By night, I orchestrate AI agents to build my own products**, mostly iOS apps and a growing collection of side web tools.
 
-🧠 **Current AI stack:** `Claude Code w/ Claude Max 20x` + `Codex w/ ChatGPT Pro 20x`
+🧠 **Current AI stack:** `Claude Code CLI w/ Claude Max 20x` + `Codex CLI w/ ChatGPT Pro 20x`
 
 ## 🌐 Website checks
 
