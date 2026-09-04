@@ -16,6 +16,7 @@
 - 🕷️ [**IndieCrawl**](https://indiecrawl.com) checks whether search engines and AI bots can crawl a website.
 - 🛡️ [**IndieHeaders**](https://indieheaders.com) checks a site's security headers and gives the line to add for every gap.
 - 🤖 [**IndieLLMs**](https://indiellms.com) validates a site's `llms.txt` file for people publishing documentation for AI systems.
+- 🏝️ [**IndieOrphans**](https://indieorphans.com) finds sitemap pages that no other checked page links to, across up to 200 pages.
 - ↪️ [**IndieRedirect**](https://indieredirect.com) traces every HTTP redirect hop, its status code, and the final URL.
 - 🧱 [**IndieSchema**](https://indieschema.com) inspects JSON-LD and checks common Google search feature requirements.
 - 📮 [**IndieSecurityTXT**](https://indiesecuritytxt.com) checks a site's `security.txt` against RFC 9116 and explains every gap.
