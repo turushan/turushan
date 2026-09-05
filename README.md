@@ -44,6 +44,12 @@
 - 💱 [**IndiePPP**](https://indieppp.com) turns one US dollar price into purchasing power parity prices for economies around the world.
 - 👀 [**IndiePreview**](https://indiepreview.com) shows how a link will look on X, LinkedIn, Slack, Discord, and iMessage.
 
+## 🎲 Random fact
+
+<!-- contribution-record:start -->
+🔥 **Single-day contribution record: 689**
+<!-- contribution-record:end -->
+
 ## 👋 Find me
 
 - 🌐 [turushan.com](https://turushan.com)

@@ -1,0 +1,44 @@
+name: Update contribution record
+
+on:
+  schedule:
+    - cron: '37 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-record
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the profile
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: main
+
+      - name: Test record updates
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Check completed contribution days
+        env:
+          CONTRIBUTIONS_TOKEN: ${{ secrets.CONTRIBUTIONS_TOKEN }}
+          PROFILE_OWNER: ${{ github.repository_owner }}
+        run: python3 scripts/contribution_record.py
+
+      - name: Save a higher record
+        run: |
+          if git diff --quiet -- README.md .github/contribution-record.json; then
+            echo 'No record change to commit.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- README.md .github/contribution-record.json
+          git commit -m 'docs: update contribution record'
+          git push origin HEAD:main
