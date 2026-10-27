@@ -10,6 +10,7 @@
 ## 🐣 Developer tools
 
 - [**Cheep**](https://cheep.sh) is a safety-first, open source Namecheap CLI for domains, DNS, SSL, scripts, and AI agents.
+- [**Codex Whip**](https://codexwhip.com) is an open source Mac menu bar app that gets Codex CLI working again after capacity errors and quota waits, in the same session with the same model.
 
 ## 🌐 Website checks
 
