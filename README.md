@@ -32,10 +32,14 @@
 ## 🧰 Builder utilities
 
 - ⏰ [**IndieCrontab**](https://indiecrontab.com) explains a cron expression, shows its next runs, and checks whether major platforms accept it.
+- 📊 [**IndieCSV**](https://indiecsv.com) finds CSV formatting errors, previews repairs, and exports CSV or JSON in your browser.
 - 📷 [**IndieEXIF**](https://indieexif.com) reads photo metadata locally and downloads a clean copy without changing the encoded picture.
+- 🚦 [**IndieHAR**](https://indiehar.com) finds failed and slow requests in a HAR file, entirely in your browser.
+- 📅 [**IndieICS**](https://indieics.com) inspects a calendar file's event times, recurring schedules, and time zone issues in your browser.
 - 🧩 [**IndieJSON**](https://indiejson.com) lets you inspect, edit, and repair JSON locally without sending it anywhere.
 - 🔐 [**IndieJWT**](https://indiejwt.com) decodes JWTs, explains expiry, and verifies signatures locally with a public key or JWKS URL.
 - 📜 [**IndieOpenAPI**](https://indieopenapi.com) validates OpenAPI documents for structural errors, broken references, incomplete operations, and authentication gaps.
+- 📄 [**IndiePDF**](https://indiepdf.com) merges, reorders, rotates, removes, and extracts PDF pages in your browser.
 - 📱 [**IndieQR**](https://indieqr.com) turns text or a URL into downloadable QR code images without a tracking redirect.
 
 ## 🚀 Launch and growth
@@ -43,7 +47,8 @@
 - 📈 [**IndieDR**](https://indiedr.com) checks a domain's Ahrefs Domain Rating and shows the source beside the number.
 - 🪪 [**IndieHandle**](https://indiehandle.com) checks whether one username is available across GitHub, npm, X, Reddit, Bluesky, and more.
 - 💱 [**IndiePPP**](https://indieppp.com) turns one US dollar price into purchasing power parity prices for economies around the world.
-- 👀 [**IndiePreview**](https://indiepreview.com) shows how a link will look on X, LinkedIn, Slack, Discord, and iMessage.
+- 👀 [**IndiePreview**](https://indiepreview.com) shows how a link will look on X, LinkedIn, Slack, Discord, iMessage, and WhatsApp.
+- 🏷️ [**IndieUTM**](https://indieutm.com) builds UTM campaign links and saves presets and recent links in your browser.
 
 ## 🎲 Random fact
 
