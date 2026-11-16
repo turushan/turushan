@@ -7,6 +7,10 @@
 
 🧠 **Current AI stack:** `Claude Max 5x` + `ChatGPT Pro 100` + `OpenCode Go` + `Google AI Pro`
 
+## ⭐ Featured
+
+- 💼 [**Layoff Simulator**](https://layoffsim.com) walks people hit by a layoff in Germany through a fictional case, so they can see their options, rights, and next steps.
+
 ## 🐣 Developer tools
 
 - [**Cheep**](https://cheep.sh) is a safety-first, open source Namecheap CLI for domains, DNS, SSL, scripts, and AI agents.
@@ -49,10 +53,6 @@
 - 💱 [**IndiePPP**](https://indieppp.com) turns one US dollar price into purchasing power parity prices for economies around the world.
 - 👀 [**IndiePreview**](https://indiepreview.com) shows how a link will look on X, LinkedIn, Slack, Discord, iMessage, and WhatsApp.
 - 🏷️ [**IndieUTM**](https://indieutm.com) builds UTM campaign links and saves presets and recent links in your browser.
-
-## 🫂 Beyond code
-
-- 💼 [**Layoff Simulator**](https://layoffsim.com) walks people hit by a layoff in Germany through a fictional case, so they can see their options, rights, and next steps.
 
 ## 🎲 Random fact
 
