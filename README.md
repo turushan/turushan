@@ -3,7 +3,7 @@
 📍 Hamburg ↔ Istanbul
 
 ☀️ **By day, I build iOS apps at [Volkswagen](https://apps.apple.com/app/id1457901109).**  
-🌙 **By night, I orchestrate AI agents to build my own products**, mostly iOS apps and a growing collection of side web tools.
+🌙 **By night, I orchestrate AI agents to build my own products**: mostly iOS apps, plus a growing stack of side tools. The public ones are listed below. The secret sauce ones stay in my kitchen 😄
 
 🧠 **Current AI stack:** `Claude Max 5x` + `ChatGPT Pro 100` + `OpenCode Go` + `Google AI Pro`
 
@@ -49,6 +49,10 @@
 - 💱 [**IndiePPP**](https://indieppp.com) turns one US dollar price into purchasing power parity prices for economies around the world.
 - 👀 [**IndiePreview**](https://indiepreview.com) shows how a link will look on X, LinkedIn, Slack, Discord, iMessage, and WhatsApp.
 - 🏷️ [**IndieUTM**](https://indieutm.com) builds UTM campaign links and saves presets and recent links in your browser.
+
+## 🫂 Beyond code
+
+- 💼 [**Layoff Simulator**](https://layoffsim.com) walks people hit by a layoff in Germany through a fictional case, so they can see their options, rights, and next steps.
 
 ## 🎲 Random fact
 
